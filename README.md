@@ -10,7 +10,6 @@
 <p>Trabajando en ecosistemas bajo <strong>Azure DevOps</strong> para mejorar los servicios al ciudadano:</p>
 <ul>
     <li><strong>SAIP (Sistema de Acceso a la Información Pública):</strong> Desarrollo y mantenimiento de <code>web-backoffice-saip</code> y <code>servicio-backoffice-saip</code>.</li>
-    <li>Gestión y estandarización técnica en el repositorio de <code>documentacion-acceso-informacion-ciudadano</code>.</li>
 </ul>
 
 <h3>🤖 Automatización e Inteligencia Artificial</h3>
